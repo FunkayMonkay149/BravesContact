@@ -1,0 +1,21 @@
+C:\Users\christwalker\Desktop\contact_list-new-UI-implementation\obj\Debug\ContactList.ContactViewing.resources
+C:\Users\christwalker\Desktop\contact_list-new-UI-implementation\obj\Debug\ContactList.CreateAccount.resources
+C:\Users\christwalker\Desktop\contact_list-new-UI-implementation\obj\Debug\ContactList.Signinpage.resources
+C:\Users\christwalker\Desktop\contact_list-new-UI-implementation\obj\Debug\ContactList.Resources.resources
+C:\Users\christwalker\Desktop\contact_list-new-UI-implementation\obj\Debug\Braves Contact.vbproj.GenerateResource.cache
+C:\Users\christwalker\Desktop\contact_list-new-UI-implementation\obj\Debug\Braves Contact.vbproj.CoreCompileInputs.cache
+C:\Users\christwalker\Desktop\contact_list-new-UI-implementation\obj\Debug\Braves Contact.vbprojAssemblyReference.cache
+C:\Users\christwalker\Desktop\-new-UI-implementation\bin\Debug\ContactList.exe.config
+C:\Users\christwalker\Desktop\-new-UI-implementation\bin\Debug\ContactList.exe
+C:\Users\christwalker\Desktop\-new-UI-implementation\bin\Debug\ContactList.pdb
+C:\Users\christwalker\Desktop\-new-UI-implementation\bin\Debug\ContactList.xml
+C:\Users\christwalker\Desktop\-new-UI-implementation\obj\Debug\Braves Contact.vbprojAssemblyReference.cache
+C:\Users\christwalker\Desktop\-new-UI-implementation\obj\Debug\ContactList.ContactViewing.resources
+C:\Users\christwalker\Desktop\-new-UI-implementation\obj\Debug\ContactList.CreateAccount.resources
+C:\Users\christwalker\Desktop\-new-UI-implementation\obj\Debug\ContactList.Signinpage.resources
+C:\Users\christwalker\Desktop\-new-UI-implementation\obj\Debug\ContactList.Resources.resources
+C:\Users\christwalker\Desktop\-new-UI-implementation\obj\Debug\Braves Contact.vbproj.GenerateResource.cache
+C:\Users\christwalker\Desktop\-new-UI-implementation\obj\Debug\Braves Contact.vbproj.CoreCompileInputs.cache
+C:\Users\christwalker\Desktop\-new-UI-implementation\obj\Debug\ContactList.exe
+C:\Users\christwalker\Desktop\-new-UI-implementation\obj\Debug\ContactList.xml
+C:\Users\christwalker\Desktop\-new-UI-implementation\obj\Debug\ContactList.pdb
