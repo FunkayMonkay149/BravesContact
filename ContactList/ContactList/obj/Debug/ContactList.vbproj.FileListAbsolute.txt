@@ -1,0 +1,13 @@
+C:\Users\funka\source\repos\ContactList\ContactList\bin\Debug\ContactList.exe.config
+C:\Users\funka\source\repos\ContactList\ContactList\bin\Debug\ContactList.exe
+C:\Users\funka\source\repos\ContactList\ContactList\bin\Debug\ContactList.pdb
+C:\Users\funka\source\repos\ContactList\ContactList\bin\Debug\ContactList.xml
+C:\Users\funka\source\repos\ContactList\ContactList\obj\Debug\ContactList.vbprojAssemblyReference.cache
+C:\Users\funka\source\repos\ContactList\ContactList\obj\Debug\ContactList.Resources.resources
+C:\Users\funka\source\repos\ContactList\ContactList\obj\Debug\ContactList.vbproj.GenerateResource.cache
+C:\Users\funka\source\repos\ContactList\ContactList\obj\Debug\ContactList.exe
+C:\Users\funka\source\repos\ContactList\ContactList\obj\Debug\ContactList.xml
+C:\Users\funka\source\repos\ContactList\ContactList\obj\Debug\ContactList.pdb
+C:\Users\funka\source\repos\ContactList\ContactList\obj\Debug\ContactList.CreateAccount.resources
+C:\Users\funka\source\repos\ContactList\ContactList\obj\Debug\ContactList.Signinpage.resources
+C:\Users\funka\source\repos\ContactList\ContactList\obj\Debug\ContactList.ContactViewing.resources
